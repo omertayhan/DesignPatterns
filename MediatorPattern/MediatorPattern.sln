@@ -11,13 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_BasicMediatrCqrsWebApi", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediatorInstance", "MediatorInstance", "{D9FA0772-A515-45EE-913F-946F4B70D8B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatrCqrsInstance", "..\Mediator\MediatorCqrsInstance\MediatrCqrsInstance.csproj", "{1E7DFFF5-10BD-4F9F-8972-F4E6F140317C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatrCqrsInstance", "MediatorCqrsInstance\MediatrCqrsInstance.csproj", "{1E7DFFF5-10BD-4F9F-8972-F4E6F140317C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{58E67F80-AAFB-416E-9C12-10C6683A3E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{58E67F80-AAFB-416E-9C12-10C6683A3E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatrWebApi", "MediatrWebApi\MediatrWebApi.csproj", "{32577D1B-EBCF-44A1-AC5D-FB4B9AC18A55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatrWebApi", "MediatrWebApi\MediatrWebApi.csproj", "{32577D1B-EBCF-44A1-AC5D-FB4B9AC18A55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatrCqrsWebApi", "MediatrCqrsWebApi\MediatrCqrsWebApi.csproj", "{FA108394-42BA-4144-982A-6139F8464CAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatrCqrsWebApi", "MediatrCqrsWebApi\MediatrCqrsWebApi.csproj", "{FA108394-42BA-4144-982A-6139F8464CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
