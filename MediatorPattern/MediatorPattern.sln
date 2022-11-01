@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_BasicMediatorPattern", "0_BasicMediatorPattern", "{C92B5868-F7E4-4D44-ACFD-E4CB77CFDDCB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicMediatorPattern", "BasicMediatorPattern", "{C92B5868-F7E4-4D44-ACFD-E4CB77CFDDCB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_BasicMediatrWebApi", "1_BasicMediatrWebApi", "{BDBE17F3-C49E-41B0-95A1-1C825877E2A6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicMediatrWebApi", "BasicMediatrWebApi", "{BDBE17F3-C49E-41B0-95A1-1C825877E2A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediatrCqrsWebApi", "MediatrCqrsWebApi", "{D9FA0772-A515-45EE-913F-946F4B70D8B9}"
 EndProject
