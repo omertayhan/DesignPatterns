@@ -16,7 +16,7 @@ namespace MediatorExample.Controllers
             this.mediator = mediator;
         }
 
-        [HttpGet("id")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> Get(Guid id)
         {
             var query = new GetProductByIdQuery() { Id = id };
