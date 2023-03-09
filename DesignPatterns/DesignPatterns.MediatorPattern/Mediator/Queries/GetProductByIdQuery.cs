@@ -2,7 +2,7 @@
 
 namespace MediatorExample.Mediator.Queries
 {
-    public class GetProductByIdQuery: IRequest<GetProductViewModel>
+    public class GetProductByIdQuery : IRequest<GetProductViewModel>
     {
         public Guid Id { get; set; }
     }

@@ -35,6 +35,5 @@ namespace MediatorExample.Controllers
         {
             return Ok(await mediator.Send(command));
         }
-
     }
 }
