@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.SignletonPattern", "DesignPatterns.SignletonPattern\DesignPatterns.SignletonPattern.csproj", "{30776395-7630-4017-AFFF-57D8E8001380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.SingletonPattern", "DesignPatterns.SignletonPattern\DesignPatterns.SingletonPattern.csproj", "{30776395-7630-4017-AFFF-57D8E8001380}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.MediatorPattern", "DesignPatterns.MediatorPattern\DesignPatterns.MediatorPattern.csproj", "{9ADCD065-BF89-4A36-92E4-8179D163FF60}"
 EndProject
