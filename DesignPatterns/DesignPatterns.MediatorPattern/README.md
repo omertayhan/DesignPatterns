@@ -1,9 +1,6 @@
 Mediator Pattern(Mediatr Library) ve CQRS ile WebAPI projesi gerçekleştirildi.
 ![image](https://user-images.githubusercontent.com/62504339/189774561-384afb3b-113c-430d-9072-2d9e712857d8.png)
 
-# Basic Get(Query) & Post(Command) işlemleri gerçekleştirildi
-
-
 # Mediator Design Pattern(Behavioral Design Pattern)
 
 ## Behavioral Design Patterns Nedir?
@@ -15,7 +12,8 @@ Mediator Pattern ile nesnelerin iletişimi ortak bir noktadan sağlanmakta, nesn
 ## Neden Mediator Pattern?
 En basitinden Kule-Uçak haberleşmesini örnek verebiliriz. Aynı havaalanına inmeye ya da kalkışa hazırlanan pilotlar doğrudan birbirleriyle haberleşseydi eğer büyük bir karışıklık ve dolayısıyla kaos olurdu. Bu duruma sebebiyet vermemek adına pilotlar doğrudan birbirleriyle haberleşmek yerine kule ile irtibata geçip verdiği direktif doğrultusunda pilotlar birbirlerinden habersiz şekilde süreç sağlıklı bir şekilde ilerletilebilmekte.
 
-## Genel Proje Dosya Hiyerarşisi
+[Dokümanı hazırlanmış projenin branchi](https://github.com/omertayhan/DesignPatterns/tree/newBranch011122)
+## Genel Proje Dosya Hiyerarşisi 
  ![solution](https://user-images.githubusercontent.com/62504339/199627437-6fe619e3-643a-49a1-a886-57cf0fbfcb95.png)
 
 ## ChatroomMediator Projesi
