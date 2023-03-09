@@ -26,6 +26,7 @@ namespace DesignPatterns.SignletonPattern
         private new List<Country> Countries { get; set; }
 
         public int CountryCount => Countries.Count;
+
         public async Task<List<Country>> GetCountries() => Countries;
     }
 }
