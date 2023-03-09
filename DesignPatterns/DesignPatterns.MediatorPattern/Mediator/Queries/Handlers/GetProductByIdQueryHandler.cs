@@ -12,7 +12,7 @@ namespace MediatorExample.Mediator.Queries
                 Name = "Book"
             };
             return Task.FromResult(vm);
-            //Get product from repo 
+            //Get product from repo
         }
     }
 }
