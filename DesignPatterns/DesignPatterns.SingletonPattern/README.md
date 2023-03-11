@@ -1,3 +1,5 @@
+Singleton Design Pattern , Creational Design Pattern grubunda yer alır.
+
 Singleton design pattern çalışma zamanında yalnızca 1 object yaratılmasını garanti eden tasarım desenidir.
 
 Kullanımına ihtiyaç duyulan durum şudur :
