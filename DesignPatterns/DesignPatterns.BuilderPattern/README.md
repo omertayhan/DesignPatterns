@@ -1,0 +1,1 @@
+Builder pattern, karmaşık nesneleri adım adım oluşturmanıza olanak tanıyan creational bir tasarım desenidir. Kalıp, aynı construction kodunu kullanarak bir nesnenin farklı türlerini ve temsillerini oluşturmanıza olanak tanır.
